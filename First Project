@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>
+    Hello Rahil
+  </title>
+  <meta charset="utf-8">
+  </meta>
+</head>
+
+<body>
+  <h1>Hello world Ì</h1>
+  <p>this is <em>only</em> a <strong>paragraph</strong></p>
+  <hr>
+
+  <table>
+    <tr>
+      <td><img src="desktop.png" alt="Desktop"></td>
+      <td>
+        <h3>Macbook 15 Pro 🥻🥻🥻👗🧣👕🥼</h3>
+        <ol type="i" start="4">
+          <li>This is a first ordered list</li>
+          <ul style="list-style-type: none;">
+            <li>first unordered list</li>
+            <li>second list</li>
+          </ul>
+          <li>This is a second ordered list</li>
+        </ol>
+      </td>
+    </tr>
+  </table>
+
+
+  <h4><a href="Contact">Contact Me</a></h4>
+
+  <h1>Skills</h1>
+
+
+    <table cellspacing="10" border="3" border-collapse="1">
+      <thead>
+        <tr>
+          <th>Skills Name</th>
+          <th>Rating</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td>HTML</td>
+          <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+          <td>CSS</td>
+          <td>⭐⭐⭐⭐</td>
+        </tr>
+      </tbody>
+    </table>
+
+<hr>
+
+</body>
+
+</html>
